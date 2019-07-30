@@ -5,7 +5,7 @@ import './Contact.css'
 class Contact extends Component {
     render(){
         return(
-            <div className="Contact">
+            <div className="Contact" id = "Contact">
             <footer>
             <section id="footer">
             <h3 class="tit">Contact</h3>

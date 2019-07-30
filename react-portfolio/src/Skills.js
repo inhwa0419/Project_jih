@@ -5,7 +5,7 @@ import './Skills.css'
 class Skills extends Component {
     render(){
         return(
-            <div className="skills">
+            <div className="skills" id = "Skills">
                 <h2>Skills</h2>
                 <h3>Language / FrameWork</h3>
                 <div className="row">

@@ -8,7 +8,7 @@ import image3 from './img/movie.jpg';
 class Project extends Component {
     render(){
         return(
-            <div class="portfolio-container section-container">
+            <div class="portfolio-container section-container" id = "Project">
                 <div class="container">
                     <div class="row">
                         <div class="col portfolio section-description wow fadeIn">

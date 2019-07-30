@@ -19,6 +19,13 @@ nav ul{
 nav ul li {
     display: inline-block;
     margin-right: 15px;
+    
+}
+
+li:hover {
+    color:rgb(14, 131, 167);
+    font-weight: 600;
+    cursor: pointer;
 }
 
 nav ul li a {

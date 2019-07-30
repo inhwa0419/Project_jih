@@ -1,8 +1,12 @@
 .portfolio-box {
     padding-top: 30px;
     text-align: left;
+    background-color: rgba(255, 255, 255, 0.986)
+    
 }
- 
+.portfolio-container{
+    background-color: rgba(255, 255, 255, 0.986)
+}
 .portfolio-box-image {
     overflow: hidden;
     border-radius: 4px;
@@ -73,3 +77,4 @@
     text-align: center;
     
 }
+
